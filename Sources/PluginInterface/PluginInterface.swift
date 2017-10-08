@@ -10,6 +10,6 @@ open class PluginInterface {
 
 	public init() { }
 	
-	public func sayHi() { }
+	open func sayHi() { }
 
 }
